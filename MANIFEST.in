@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include myerpapp *.css
+recursive-include myerpapp *.csv
+recursive-include myerpapp *.html
+recursive-include myerpapp *.ico
+recursive-include myerpapp *.js
+recursive-include myerpapp *.json
+recursive-include myerpapp *.md
+recursive-include myerpapp *.png
+recursive-include myerpapp *.py
+recursive-include myerpapp *.svg
+recursive-include myerpapp *.txt
+recursive-exclude myerpapp *.pyc
