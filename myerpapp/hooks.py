@@ -10,6 +10,10 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+# fixtures = ["Workflow",{
+#     "dt" : 
+# }]
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/myerpapp/css/myerpapp.css"
 # app_include_js = "/assets/myerpapp/js/myerpapp.js"
